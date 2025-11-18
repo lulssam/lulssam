@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Luisa Sampaio
+I'm finishing my Bachelor in Informatics Engineering
+Based in Lisbon
 
 <!--
 **lulssam/lulssam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
