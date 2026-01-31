@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Luisa Sampaio
-I'm finishing my Bachelor in Informatics Engineering
+I'm finishing my Bachelor in Informatics & Multimedia Engineering
 Based in Lisbon
 
 <!--
