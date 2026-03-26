@@ -1,21 +1,56 @@
-## Hi there 👋
-My name is Luisa Sampaio
-I'm finishing my Bachelor in Informatics & Multimedia Engineering
-Based in Lisbon
+# Hi, I'm Luísa 👋
 
-<!--
-**lulssam/lulssam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc in Informatics & Multimedia Engineering @ ISEL, Lisbon  
+📱 Mobile Developer focused on Kotlin & Compose Multiplatform  
+🌍 Erasmus+ @ Budapest University of Technology and Economics  
+📬 lumelosampaio@email.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [📷 RoloApp](https://github.com/lulssam/RoloApp-DAM) | Android app guiding photographers through the analogue film development process | Kotlin, Jetpack Compose, Room |
+| [🐾 Jiggie!](https://github.com/lulssam/jiggie) | Multiplatform app for tracking the daily care of an elderly dog with special needs | Kotlin, CMP, Firestore |
+| [🚀 Space Invaders](https://github.com/lulssam/Projeto-MSSN) | Space Invaders game with natural systems simulations | Java, Processing |
+
+---
+
+## 🏅 Certifications
+
+![Cisco](https://img.shields.io/badge/CCNA%3A%20Introduction%20to%20Networks-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
+---
+
+## 🌍 Languages
+
+🇵🇹 Portuguese — Native  
+🇫🇷 French — Native  
+🇬🇧 English — Fluent  
+🇪🇸 Spanish — B2  
+
+---
+
+## 📊 GitHub Stats
+
+![Luísa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulssam&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lulssam&layout=compact&hide_border=true)
+
+---
+
+*📸 Photography enthusiast & analogue film lover*
