@@ -1,13 +1,13 @@
 # Hi, I'm Luísa 👋
 
-🎓 BSc in Informatics & Multimedia Engineering @ ISEL, Lisbon  
-📱 Mobile Developer focused on Kotlin & Compose Multiplatform  
-🌍 Erasmus+ @ Budapest University of Technology and Economics  
-📬 lumelosampaio@email.com
+BSc in Informatics & Multimedia Engineering @ ISEL, Lisbon  
+Junior Mobile Developer focused on Kotlin & Compose Multiplatform  
+Erasmus+ @ Budapest University of Technology and Economics  
+lumelosampaio@email.com
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
@@ -20,32 +20,32 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [📷 RoloApp](https://github.com/lulssam/RoloApp-DAM) | Android app guiding photographers through the analogue film development process | Kotlin, Jetpack Compose, Room |
-| [🐾 Jiggie!](https://github.com/lulssam/jiggie) | Multiplatform app for tracking the daily care of an elderly dog with special needs | Kotlin, CMP, Firestore |
-| [🚀 Space Invaders](https://github.com/lulssam/Projeto-MSSN) | Space Invaders game with natural systems simulations | Java, Processing |
+| [RoloApp](https://github.com/lulssam/RoloApp-DAM) | Android app guiding photographers through the analogue film development process | Kotlin, Jetpack Compose, Room |
+| [Jiggie!](https://github.com/lulssam/jiggie) | Multiplatform app for tracking the daily care of an elderly dog with special needs | Kotlin, CMP, Firestore |
+| [Space Invaders](https://github.com/lulssam/Projeto-MSSN) | Space Invaders game with natural systems simulations | Java, Processing |
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 ![Cisco](https://img.shields.io/badge/CCNA%3A%20Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-## 🌍 Languages
+## Languages
 
-🇵🇹 Portuguese — Native  
-🇫🇷 French — Native  
-🇬🇧 English — Fluent  
-🇪🇸 Spanish — B2  
+Portuguese — Native  
+French — Native  
+English — Fluent  
+Spanish — B2  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Luísa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulssam&show_icons=true&theme=default&hide_border=true&count_private=true)
 
