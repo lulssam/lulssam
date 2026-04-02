@@ -47,7 +47,8 @@ Spanish — B2
 
 ## GitHub Stats
 
-![Luísa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulssam&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Luísa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulssam)](https://github.com/lulssam/github-readme-stats)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lulssam&layout=compact&hide_border=true)
 
