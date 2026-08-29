@@ -26,7 +26,7 @@ lumelosampaio@email.com
 |---|---|---|
 | [SmartTool Cabinet](https://github.com/lulssam/SmartTool-Cabinet) | KMP App for managing smart cabinets in plane hangars| Kotlin, MySQL |
 | [RoloApp](https://github.com/lulssam/RoloApp-DAM) | Android app guiding photographers through the analogue film development process | Kotlin, Jetpack Compose, Room |
-| [Jiggie!](https://github.com/lulssam/jiggie) | Multiplatform app for tracking the daily care of an elderly dog with special needs | Kotlin, CMP, Firestore |
+| [Jiggie!](https://github.com/lulssam/jiggie) | Multiplatform app for tracking the daily care of an elderly dog with special needs | Kotlin, CMP, Supabase |
 
 ---
 
